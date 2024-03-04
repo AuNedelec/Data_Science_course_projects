@@ -1,6 +1,6 @@
 # Data_Science_course_projects
 These small projects were realized with [Codecademy](https://www.codecademy.com/) courses ["Getting started with Python for Data Science"](https://www.codecademy.com/learn/getting-started-with-python-for-data-science) and ["Python for Data Science : Working with Data"](https://www.codecademy.com/learn/python-for-data-science-working-with-data).
-
+Each script for a project is available as a Jupyter Notebook, where it was originally made, and as a Python script for better visibility and accessibility. 
 
 ## Key Notions
 
